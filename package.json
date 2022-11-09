@@ -14,5 +14,12 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
-    }
+    },
+    "name": "ProyectoLaravel",
+    "version": "1.0.0",
+    "description": "Proyecto para el Tecnologico de China",
+    "main": "index.php",
+    "repository": "https://github.com/caamaledgar/ProyectoLaravel.git",
+    "author": "Edgar D; Caamal <caamal.edgar@gmail.com>",
+    "license": "MIT"
 }

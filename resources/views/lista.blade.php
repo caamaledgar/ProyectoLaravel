@@ -1,4 +1,4 @@
-@extends('layouts')
+@extends('layout')
 @section('contenidoPrin')
     <h2>Lista de productos</h2>
 

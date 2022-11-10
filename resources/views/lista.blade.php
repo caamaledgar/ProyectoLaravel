@@ -1,4 +1,4 @@
-@extends('layouts/layoutMaster')
+@extends('layouts')
 @section('contenidoPrin')
     <h2>Lista de productos</h2>
 
